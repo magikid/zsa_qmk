@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/Users/chrisj/project/qmk_firmware/lib/googletest",
+    "files.associations": {
+        "*.helm": "yaml",
+        "version.h": "c",
+        "musical_notes.h": "c"
+    }
+}
